@@ -1,0 +1,7 @@
+@charset "utf-8";
+/* CSS Document */
+
+.clearfix {
+    zoom: 1;     /* triggers hasLayout */
+    display: block;     /* resets display for IE/Win */
+    } 
